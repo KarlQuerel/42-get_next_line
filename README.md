@@ -15,9 +15,16 @@ Mastering the project required grasping the functionality of the function within
 Additionally, the project emphasized the significance of addressing memory leaks. It is imperative for `get_next_line` and all subsequent projects to ensure the absence of any memory leaks.
 
 ## Installation
-1. Clone this repository.
-2. Navigate to the root directory of the project.
-3. Include the `get_next_line.h` header file in your project.
+1. Clone this repository to your local machine:
+	```sh
+	git clone https://github.com/KarlQuerel/42-get_next_line.git
+	```
+
+2. Navigate to the project directory:
+	```sh
+	cd get_next_line
+	```
+3. Include the `get_next_line.h` header file in your C source files.
 
 
 ## Usage
