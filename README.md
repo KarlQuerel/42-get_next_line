@@ -57,4 +57,6 @@ int main(void)
 }
 ```
 
+For more information, refer to the [subject PDF](https://github.com/KarlQuerel/42-get_next_line/blob/master/docs/en.subject.pdf).
+
 [Back to Top](#top)
