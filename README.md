@@ -22,7 +22,7 @@ Additionally, the project emphasized the significance of addressing memory leaks
 
 2. Navigate to the project directory:
 	```sh
-	cd get_next_line
+	cd 42-get_next_line
 	```
 3. Include the `get_next_line.h` header file in your C source files.
 
